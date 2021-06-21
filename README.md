@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Nishat1396
+- 👋 Hi, I’m @Nishat1396 Tasnim
 - 👀 I’m interested in Web Developement and Graphic Design
 - 🌱 I’m currently learning Web Developement
 - 💞️ I’m looking to collaborate on ...
